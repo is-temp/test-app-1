@@ -1,0 +1,24 @@
+PODS:
+  - R.swift (5.4.0):
+    - R.swift.Library (~> 5.3.0)
+  - R.swift.Library (5.3.0)
+  - RxSwift (6.1.0)
+
+DEPENDENCIES:
+  - R.swift
+  - RxSwift
+
+SPEC REPOS:
+  trunk:
+    - R.swift
+    - R.swift.Library
+    - RxSwift
+
+SPEC CHECKSUMS:
+  R.swift: c533450b0f7dc494e0993f5f1a1db925d84c3006
+  R.swift.Library: 0fc583cb55a99e28901299cc451614cad1161962
+  RxSwift: a834e5c538e89eca0cae86f403f4fbf0336786ce
+
+PODFILE CHECKSUM: 911622e1e79c57285c73f071f26dd3bcadd0df53
+
+COCOAPODS: 1.10.1
